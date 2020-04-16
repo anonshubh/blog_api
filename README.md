@@ -1,7 +1,7 @@
 A Blog API with CRUD functionality built using Django.
-
-Documented at:- http://127.0.0.1:8000/docs/
 ---
+Documented at:- http://127.0.0.1:8000/docs/
+
 **EndPoints:-**
 
 *List Posts:-*
